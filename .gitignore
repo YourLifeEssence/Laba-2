@@ -420,3 +420,7 @@ FodyWeavers.xsd
 **/obj/
 **/TestResults/
 .vs/
+
+*.sln
+*.vcxproj
+*.vcxproj.filters
