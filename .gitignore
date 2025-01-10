@@ -396,3 +396,27 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+*.user
+*.userosscache
+*.suo
+*.slx
+*.obj
+*.exe
+*.pdb
+*.dll
+*.log
+*.vspscc
+*.vssscc
+*.tmp
+*.csproj.user
+*.cache
+*.ilk
+*.idb
+*.tlog
+*.lastbuildstate
+*.sln.docstates
+**/bin/
+**/obj/
+**/TestResults/
+.vs/
