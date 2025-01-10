@@ -7,4 +7,7 @@ int main() {
 	Sorting<int>* sorting = new RadixSorting<int>();
 	sorting->sort(myVec, myComp);
 
+	delete sorting;
+
+	return 0;
 }
